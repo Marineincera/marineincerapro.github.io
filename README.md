@@ -1,4 +1,4 @@
-# marineincerapro.github.io
+# Personal project - CV - 2019 
 
 This project was created before the Wild Code Shool.
 I have began to learn web developpement on my own.
